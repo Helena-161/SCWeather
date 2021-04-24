@@ -1,0 +1,64 @@
+.conteiner {
+    background: url("images/mountains-music-stars-neon-wallpaper-preview.jpg"), no-repeat;
+    background-size: cover;
+    margin: 15px 15px;
+    border-radius: 20px;
+    padding: 10px 0;
+    position: relative;
+}
+
+.col {
+    margin-top: 70px;
+    margin-left: -20px;
+}
+
+body {
+    font-family: 'Orbitron', sans-serif;
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+form {
+    text-align: right;
+    padding-top: 15px;
+    margin-right: 35px;
+    margin-top: 15px;
+
+}
+
+h1 {
+    size: 58px;
+    color: #ff2281;
+    text-shadow: 1px 1px 1px #E8E500;
+    padding-top: 0px;
+    padding-left: 25px;
+}
+h2,
+h3 {
+    color: #b76cfd;
+    text-shadow: 1px 1px 1px #15eb20;
+    padding-top: 0px;
+    padding-left: 25px;
+}
+h4 {
+    color: #E8E500;
+    padding-top: 15px;
+    padding-left: 25px;
+}
+h5 {
+    color:#EB2282;
+    text-shadow: 1px 1px 1px #E8E500;
+    padding-left: 25px;
+}
+i {
+    color: #75d5fd;
+    text-shadow: 1px 1px 1px #E8E500;
+    padding-left: 20px;
+    font-size: 32px;
+    padding-bottom: 20px;
+}
+p{
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 1px #E8E500;
+    padding-top: 20px;
+}
